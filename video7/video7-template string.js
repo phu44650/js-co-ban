@@ -37,7 +37,6 @@ console.log("Outside the loop:", q);//lỗi
 // let counter; // error
 //không đặt trùng dc
 
-//bài 8-video thứ 12 trong chuỗi
 
 
 
